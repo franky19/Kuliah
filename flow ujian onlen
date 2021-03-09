@@ -1,1 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T12:43:27.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.4" etag="AwN41T3XQinoGZ4M6Lc7" type="github"><diagram id="n42CVtfrEe4V7ahL50qw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-09T14:17:12.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="kBLsjex04xFkfmi3Ye1a" version="14.4.4" type="github">
+  <diagram id="n42CVtfrEe4V7ahL50qw" name="Page-1">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxzec6-iMSG_CEnS4-ur-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-2" value="Scan qr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="120" as="targetPoint" />
+            <mxPoint x="360" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-5" value="API MAPEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-9" value="Hadir&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-10" value="Siswa / mahasiswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-11" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-12" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.408;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lxzec6-iMSG_CEnS4-ur-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="290" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.642;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lxzec6-iMSG_CEnS4-ur-13" target="lxzec6-iMSG_CEnS4-ur-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-13" value="Guru" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-17" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-80" as="sourcePoint" />
+            <mxPoint x="510" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-18" value="cek hadir / tidak hadir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxzec6-iMSG_CEnS4-ur-17">
+          <mxGeometry x="0.1641" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="-90" as="sourcePoint" />
+            <mxPoint x="110" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxzec6-iMSG_CEnS4-ur-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-23" value="Pengajuan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="640" as="targetPoint" />
+            <mxPoint x="380" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-26" value="API MAPEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-28" value="Tidak Hadir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-29" value="Siswa / mahasiswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="790" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-30" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="680" as="sourcePoint" />
+            <mxPoint x="320" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxzec6-iMSG_CEnS4-ur-24" target="lxzec6-iMSG_CEnS4-ur-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="570" as="targetPoint" />
+            <mxPoint x="200" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-33" value="Guru" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-34" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxzec6-iMSG_CEnS4-ur-35" value="cek hadir / tidak hadir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxzec6-iMSG_CEnS4-ur-34">
+          <mxGeometry x="0.1641" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
