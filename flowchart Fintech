@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T09:56:22.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0XUQG5E9g9O_i3zObOa4" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T09:59:46.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EKkk6QIiqmDkUKOrSV-j" version="14.4.5" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="440" />
+              <mxPoint x="200" y="480" />
               <mxPoint x="200" y="390" />
               <mxPoint x="230" y="390" />
               <mxPoint x="230" y="160" />
@@ -192,7 +192,7 @@
             <Array as="points">
               <mxPoint x="575" y="170" />
               <mxPoint x="240" y="170" />
-              <mxPoint x="240" y="450" />
+              <mxPoint x="240" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,8 +212,8 @@
         <mxCell id="NEuzehrSCSNhd-RSV5eT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-50" target="NEuzehrSCSNhd-RSV5eT-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="230" />
-              <mxPoint x="1070" y="230" />
+              <mxPoint x="870" y="250" />
+              <mxPoint x="1070" y="250" />
               <mxPoint x="1070" y="115" />
             </Array>
           </mxGeometry>
@@ -231,30 +231,16 @@
         <mxCell id="NEuzehrSCSNhd-RSV5eT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-42" target="NEuzehrSCSNhd-RSV5eT-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="380" />
-              <mxPoint x="610" y="380" />
+              <mxPoint x="560" y="400" />
+              <mxPoint x="610" y="400" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEuzehrSCSNhd-RSV5eT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-72">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="587" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="370" />
-              <mxPoint x="587" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEuzehrSCSNhd-RSV5eT-76" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-75">
-          <mxGeometry x="-0.0769" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NEuzehrSCSNhd-RSV5eT-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-73" target="NEuzehrSCSNhd-RSV5eT-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="320" />
-              <mxPoint x="960" y="320" />
+              <mxPoint x="870" y="370" />
+              <mxPoint x="960" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -293,6 +279,19 @@
         </mxCell>
         <mxCell id="NEuzehrSCSNhd-RSV5eT-79" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF2B0A;" vertex="1" parent="2b4e8129b02d487f-4">
           <mxGeometry x="970" y="90" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.693;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-72" target="NEuzehrSCSNhd-RSV5eT-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="420" />
+              <mxPoint x="587" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-82" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-81">
+          <mxGeometry x="-0.0916" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
