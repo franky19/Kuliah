@@ -1,1 +1,300 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T06:44:18.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="XaPTCuRAnX79hn7geqUJ" version="14.4.5" type="github"><diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">7Vvbkto4EP0aHkP5bvMYJjOzD7OpqZrU7uZR2AIrkS1KFgHy9SuB5AviIggzqGbMC1Zblu0+p0+3GzPw74rVIwXz/G+SQTzwnGw18L8MPM91Y59/Cct6awkTaZhRlMlJjeEF/YbS6EjrAmWw6kxkhGCG5l1jSsoSpqxjA5SSZXfalODuWedgBjXDSwqwbv0XZSxX9+U4zY6/IJrl8tRJKHdMQPpzRsmilOcbeP5089nuLoBaS86vcpCRZcvk3w/8O0oI224VqzuIhW+V27bHPRzYW183hSUzOcCbBDBxvdHE8bIgiaef5Aq/AF5IXzxzx8uLZWvloGqJCgxKPhrnrMDc6PLNNEc4ewJrshAnrxh3hhqNc0LRb1IyoCbz3ZRJ6PlVtme8iCO5WVg3zoSZHNX+EgMMJhCPa4/fEUwo31WSzXVVjJKfNXzijFO++AMoEBas/AfSDJRAmuV1JHwIMJqVfDvlLoR8vbHuU+UkSBlctUzSx4+QFJDRNZ+i9iYSbxkPsRwuG3JFakre4lWgJgJJ6Fm9dAMq35C4GmLsaRg/CSg9xzXE+Qh0EhrdZweZdtqJ0mmeodPc8DWc5iaac2DGRUMOCWU5mZES4PvGukPelgdPUZf797PQsR3bA8LKw20MQj6GZaaOSDGoKpR+y1G53SEPc7ej1kE/IGNrOQYLRripuZEnQuY14JfE0mkOSCZWZEFTeGBOKPUf0Bk8tE60nSMAOcokCjFg6FdX5a9Kk1CLLZ02GPM8JjBd5ojBlznY3PuSp9IuSWyUvoNiYqyFUVcKIz2q/T1B7b9GTEenwWowcE8D9l4gcr0uRmE0DEatT6xBFu+DLH6N3OVoEPUy/BYyHBvIcGKNDMd9ZO+N7FpH7YvsxL7M6dkFnu/bkzr3oXO5DnMn0fV/0r4ZfBeDYdhr9DkaPTLQaNVisUCkR71I743zwOLyy+/Lr5uEtgrb47HtWhPb6nqPBTeP17nYLFYz0UYeTuZFOZTGNk1E5KCUQyHo8kwqxBARQTghjJHiMI+a5muzxmcZwEygOp5Divi9ikj+QnNSTBbVc2Mad7q5M8DgEqwFORYMI0HHmpXrYkLE1XKYAcYQPy47tNfEyWr5CUN7ygxX70f3VeFOP8W1By5fQ0t2lvcEv0WdZde0H/86rWUv6pPq1ZOqKlSOJlXPJKn69iRVJQ7vvGJWMnJxwzIYDdsF8yi6XcXs6pqoa6Hm2y5GnSppiskyzXmEDjOYompTCu3F+Uj9cRxqi4D1dmqR0O8+Crnh7ZJdcCjZ6c9INiU7/7a/o3r976jni6gBDwKTfBeY5LvQnnynh9i7zHfqNi9v48dDp/3xb5fvPL2r9x1W14z5vll8HTEwebHCNX2zQhLzE4fBcaIOOeXIWC7k4s8E8ftrppDptOLXucvN+houlBiDFzY+THl2tg7pv0gJ+JtPFNyuPFOLfuBCo9UI3eLxB3lNDPetdy01ikzUKLanNDF4d6jvb1tZPAWBvaLlfpAXV84GLdQq3huWuIGGyUfLLNcvWdW758eShFGO8KzJEZ5eW34lPXVuQh3Vhj3KHdPyonnYGfkqW0hdqh8o7Hzc8fT8cuWn856T1+Wk6oGdQcpkFMQdUtrNSV//29FVukPDsN0f6rl5HjdN3ve26F1CX/9ptM+1t+KOUWfRtE5rJdtQNZf/SNe408G6NWEuVK7aI3uqyRWEnbOq58eHA/Pd8Oh8vrG9grcV2f7FzRsFg8lDy+iNdJQPm/+Wb2nV/IHfv/8f</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-05T09:51:16.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lUpIpvSsOBIl41c5JM6L" version="14.4.5" type="github">
+  <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
+    <mxGraphModel dx="1847" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2b4e8129b02d487f-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Proses bisnis crowdfunding&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="20" width="1250" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-2" value="Pelaku UMKM" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="40" width="1250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-5" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#00FF00;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="41" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-1" value="melihat homepage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="100" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-5" target="NEuzehrSCSNhd-RSV5eT-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-2" value="Mendaftar akun" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="220" y="57.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="NEuzehrSCSNhd-RSV5eT-1" target="NEuzehrSCSNhd-RSV5eT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="NEuzehrSCSNhd-RSV5eT-7" target="NEuzehrSCSNhd-RSV5eT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-7" value="Akun aktif" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="300" y="57.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-10" value="input data usaha" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="550" y="56.25" width="70" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-2" source="NEuzehrSCSNhd-RSV5eT-22" target="NEuzehrSCSNhd-RSV5eT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-22" value="data usaha tidak lengkap" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="630" y="42.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-24" value="Input ulang data usaha" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="770" y="53.75" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="NEuzehrSCSNhd-RSV5eT-44" target="NEuzehrSCSNhd-RSV5eT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-44" value="input dana yang dibutuhkan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="410" y="55" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-2" source="NEuzehrSCSNhd-RSV5eT-54" target="NEuzehrSCSNhd-RSV5eT-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-54" value="Jumlah dana yang telah terkumpul" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="890" y="45" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-57" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF2B0A;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1030" y="65" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-60" value="Proses produksi kerajinan tangan" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;fillColor=#FFFFFF;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="1070" y="45" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-3" value="crowd Investor" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="190" width="1250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-19" target="NEuzehrSCSNhd-RSV5eT-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-19" value="Informasi usaha UMKM dan dana yang dibutuhkan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="354" y="48" width="100" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-28" target="NEuzehrSCSNhd-RSV5eT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-28" value="melihat homepage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="40" y="57.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-31" target="NEuzehrSCSNhd-RSV5eT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-31" value="Mendaftar akun" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="150" y="55" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-37" target="NEuzehrSCSNhd-RSV5eT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-37" value="Akun aktif" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="244" y="57.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-42" target="NEuzehrSCSNhd-RSV5eT-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-42" value="memberikan penawaran usaha yang diinginkan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="490" y="55" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-48" target="NEuzehrSCSNhd-RSV5eT-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="85" />
+              <mxPoint x="810" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-52" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-51">
+          <mxGeometry x="0.72" y="-4" relative="1" as="geometry">
+            <mxPoint x="-23" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-48" value="produk kerajinan tangan?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="670" y="40" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-50" value="Redesign produk UMKM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="820" y="63.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" source="NEuzehrSCSNhd-RSV5eT-65" target="NEuzehrSCSNhd-RSV5eT-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-65" value="tracking produk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="1050" y="55" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-66" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF2B0A;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="1190" y="75" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-4" value="Admin" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="340" width="1250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-4" value="Verifikasi akun" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="41" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-16" value="lengkap?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="420" y="80" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-4" source="NEuzehrSCSNhd-RSV5eT-23" target="NEuzehrSCSNhd-RSV5eT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-23" value="Verifikasi data usaha" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="260" y="95" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-4" source="NEuzehrSCSNhd-RSV5eT-68" target="NEuzehrSCSNhd-RSV5eT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-68" value="Jumlah dana yang telah terkumpul" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="560" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-77" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-4" source="NEuzehrSCSNhd-RSV5eT-72" target="NEuzehrSCSNhd-RSV5eT-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-72" value="Dana cukup?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="695" y="60" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-4" source="NEuzehrSCSNhd-RSV5eT-73" target="NEuzehrSCSNhd-RSV5eT-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-73" value="disable penawaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="820" y="75" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-79" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FF2B0A;" vertex="1" parent="2b4e8129b02d487f-4">
+          <mxGeometry x="970" y="90" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-2" target="NEuzehrSCSNhd-RSV5eT-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="150" />
+              <mxPoint x="220" y="150" />
+              <mxPoint x="220" y="180" />
+              <mxPoint x="30" y="180" />
+              <mxPoint x="30" y="370" />
+              <mxPoint x="91" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-4" target="NEuzehrSCSNhd-RSV5eT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="440" />
+              <mxPoint x="200" y="390" />
+              <mxPoint x="230" y="390" />
+              <mxPoint x="230" y="160" />
+              <mxPoint x="335" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-16" target="NEuzehrSCSNhd-RSV5eT-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-20" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-18">
+          <mxGeometry x="-0.1396" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-16" target="NEuzehrSCSNhd-RSV5eT-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="350" />
+              <mxPoint x="640" y="350" />
+              <mxPoint x="640" y="170" />
+              <mxPoint x="680" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-21" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-17">
+          <mxGeometry x="-0.7532" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-24" target="NEuzehrSCSNhd-RSV5eT-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="180" />
+              <mxPoint x="320" y="180" />
+              <mxPoint x="320" y="410" />
+              <mxPoint x="310" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-31" target="NEuzehrSCSNhd-RSV5eT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-10" target="NEuzehrSCSNhd-RSV5eT-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="170" />
+              <mxPoint x="240" y="170" />
+              <mxPoint x="240" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-48" target="NEuzehrSCSNhd-RSV5eT-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="210" />
+              <mxPoint x="940" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-56" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-55">
+          <mxGeometry x="-0.2836" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-50" target="NEuzehrSCSNhd-RSV5eT-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="230" />
+              <mxPoint x="1070" y="230" />
+              <mxPoint x="1070" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.95;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-60" target="NEuzehrSCSNhd-RSV5eT-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="109" />
+              <mxPoint x="1200" y="197" />
+              <mxPoint x="1100" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-42" target="NEuzehrSCSNhd-RSV5eT-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="380" />
+              <mxPoint x="610" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="370" />
+              <mxPoint x="587" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-76" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEuzehrSCSNhd-RSV5eT-75">
+          <mxGeometry x="-0.0769" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEuzehrSCSNhd-RSV5eT-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="NEuzehrSCSNhd-RSV5eT-73" target="NEuzehrSCSNhd-RSV5eT-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="320" />
+              <mxPoint x="960" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
