@@ -1,4 +1,4 @@
 # Kuliah
-user story pengguna
-user story pelaku umkm
-user story admin
+## daftar diagram skripsian
+### flowchart proses bisnis
+### use case crowdfunding
